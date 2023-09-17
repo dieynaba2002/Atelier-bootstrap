@@ -1,0 +1,17 @@
+:root{
+    --couleur-bg-password: #FFFCC8;
+}
+
+
+.principal-container{
+    margin:5% auto;
+    background-color: #F8F9FA;
+    width: 65%;
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#floatingPassword{
+    background-color: var(--couleur-bg-password);
+}
